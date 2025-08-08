@@ -58,9 +58,9 @@ Make sure you have the following installed:
 ## 📄 Example CSV Format
 
 ```csv
-latitude,longitude
--6.175392,106.827153
--6.208763,106.845599
+id,latitude,longitude
+1,-6.175392,106.827153
+2,-6.208763,106.845599
 ```
 
 ---
