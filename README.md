@@ -63,24 +63,9 @@ id,latitude,longitude
 2,-6.208763,106.845599
 ```
 
----
-
-## ⚠️ Notes & Limitations
-
-- **Quota limits**: Google Street View Static API may have daily request quotas.  
-- **Usage cost**: Downloads beyond free tier are billed according to Google Cloud pricing.
-- **Legal**: Ensure you comply with [Google Maps Platform Terms of Service](https://cloud.google.com/maps-platform/terms).
-- Images are for personal/research use unless otherwise permitted.
 
 ---
 
-## 📜 License
+ ✨ Mohammad Raditia Pradana @2025
 
-This project is provided **as-is** for research and educational purposes.  
-Ensure compliance with Google’s licensing before using the images commercially.
-
----
-
-## ✨ Mohammad Raditia Pradana @2025
-
-Developed by *[Your Name]* — inspired by the need to automate large-scale Street View imagery collection for spatial research.
+Developed by *Mohammad Raditia Pradana* — inspired by the need to automate large-scale Street View imagery collection for spatial research.
